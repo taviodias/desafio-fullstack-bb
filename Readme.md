@@ -6,11 +6,11 @@ Desafio fullstack para SuperADM do BB realizado utilizando:
 - React + Vite
 - Express + inMemoryBD
 
-#### Backend
+### Backend
 
 Se conecta a [SWAPI](https://swapi.dev) para busca dos personagens da saga Star Wars.
 
-#### Frontend
+### Frontend
 
 Trás a lista de personagens do backend com opções de:
 - Busca
