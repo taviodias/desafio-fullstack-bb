@@ -7,7 +7,7 @@ import { ListCards } from './components/ListCards';
 
 function App() {
     const [people, setPeople] = useState([]);
-    const [favs, setFavs] = useState([1, 2, 3, 4, 11]);
+    const [favs, setFavs] = useState([]);
     const [showFavs, setShowFavs] = useState(false);
     const [search, setSearch] = useState('');
 
