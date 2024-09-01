@@ -8,7 +8,7 @@ Desafio fullstack para SuperADM do BB realizado utilizando:
 
 ### Backend
 
-Se conecta a [SWAPI](https://swapi.dev) para busca dos personagens da saga Star Wars.
+Se conecta a [SWAPI](https://swapi.dev) para busca dos personagens da saga Star Wars e ao repositório [swapi-gallery](https://github.com/vieraboschkova/swapi-gallery/) para usar as fotos dos personagens.
 
 ### Frontend
 
