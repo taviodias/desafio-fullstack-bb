@@ -67,27 +67,6 @@ function App() {
                     favs={favs}
                     search={search}
                 />
-                {/* {people.map((person) => {
-                    if (showFavs) {
-                        if (!favs.includes(person.id)) {
-                            return;
-                        }
-                        return <Card
-                            key={person.id}
-                            person={person}
-                            fav={favs.includes(person.id)}
-                            addFav={addFav}
-                            delFav={delFav}
-                        />
-                    }
-                    return <Card
-                        key={person.id}
-                        person={person}
-                        fav={favs.includes(person.id)}
-                        addFav={addFav}
-                        delFav={delFav}
-                    />
-                })} */}
             </div>
         </main>
     )
